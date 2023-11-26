@@ -1,11 +1,7 @@
 import random
 import optparse
 import os
-## mission cipher##
-## upper only##
-## lower only##
-## special only##
-## all in one##
+
 print(""" 
     
     ####         ####           #####                            ###############
